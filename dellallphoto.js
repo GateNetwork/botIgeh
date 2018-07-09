@@ -121,13 +121,13 @@ console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
 
-  [?] {bold.green MASS DELETE ALL PHOTO IG *SET SLEEP!}
+  [?] {bold.green BOM KOMEN POST TARGET *SET SLEEP!}
 
   ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@teamsyntaxid)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
+  [✓] GateNetwork
+  —————————————————————————————————————————————————————
+  What's new?
+  1. Input Target/delay Manual (ITTYW)
   —————————————————————————————————————————————————————}
       `);
 

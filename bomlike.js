@@ -162,7 +162,15 @@ const Excute = async function(User, TargetUsername, mysyntx, sleep){
 console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
-  —————————————————— [BY :RAS_OWL] ————————————————————
+
+  [?] {bold.green BOM KOMEN POST TARGET *SET SLEEP!}
+
+  ——————————————————  [THANKS TO]  ————————————————————
+  [✓] GateNetwork
+  —————————————————————————————————————————————————————
+  What's new?
+  1. Input Target/delay Manual (ITTYW)
+  —————————————————————————————————————————————————————}
 `);
 
 inquirer.prompt(User)

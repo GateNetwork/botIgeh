@@ -104,13 +104,13 @@ console.log(chalk`
   {bold.cyan
   —————————————————— [INFORMATION] ————————————————————
 
-  [?] {bold.green BOTLIKEv2 | Like/Love TL IG *AUTO!}
+  [?] {bold.green BOM KOMEN POST TARGET *SET SLEEP!}
 
   ——————————————————  [THANKS TO]  ————————————————————
-  [✓] CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
-  [✓] FIXING & TESTING BY SYNTAX (@teamsyntaxid)
-  [✓] CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
-  [✓] SGB TEAM REBORN | Zerobyte.id | ccocot@bc0de.net 
+  [✓] GateNetwork
+  —————————————————————————————————————————————————————
+  What's new?
+  1. Input Target/delay Manual (ITTYW)
   —————————————————————————————————————————————————————}
       `);
 
